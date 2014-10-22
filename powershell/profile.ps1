@@ -1,3 +1,4 @@
-function cdh {
-	Set-Location D:\MK
+function cdh
+{
+	Set-Location "D:\MK"
 }
